@@ -111,8 +111,40 @@
 	},
 	"filterWheels": [
 		{
-			"Name": "Test FW",
-			"Make": "None",
+			"Name": "",
+			"Make": "Thorlabs",
+			"COM": "COM9",
+			"CurrentPosition": 0,
+			"StringsAndValues": [
+				{
+					"String": "0 OD",
+					"Value": 1
+				},
+				{
+					"String": "0.5 OD",
+					"Value": 2
+				},
+				{
+					"String": "1 OD",
+					"Value": 3
+				},
+				{
+					"String": "2 OD",
+					"Value": 4
+				},
+				{
+					"String": "3 OD",
+					"Value": 5
+				},
+				{
+					"String": "4 OD",
+					"Value": 6
+				}
+			]
+		},
+		{
+			"Name": "",
+			"Make": "Thorlabs",
 			"COM": "COM8",
 			"CurrentPosition": 0,
 			"StringsAndValues": [
