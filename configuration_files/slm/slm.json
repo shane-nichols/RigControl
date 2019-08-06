@@ -1,0 +1,12 @@
+{{
+	"board_num": 1,
+	"height": 0,
+	"width": 0,
+	"LUT_filepath": "C:\\Program Files\\National Instruments\\LabVIEW 2015\\vi.lib\\RigControl\\slm\\slm3922_at635_P8.lut",
+	"points": [
+		[]
+	],
+	"wavefrontImage": [],
+	"applyWavefrontCorrection": false,
+	"wavefrontImageFilename": "wavefront.bmp"
+}}
