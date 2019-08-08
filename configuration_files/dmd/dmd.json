@@ -1,13 +1,15 @@
 {
 	"ALPversion": "alpV42x64",
-	"points red channel": [
+	"channel1pts": [
 		[
 			[]
 		]
 	],
-	"points blue channel": [
+	"channel2pts": [
 		[
 			[]
 		]
-	]
+	],
+	"channel1name": "blue",
+	"channel2name": "red"
 }
