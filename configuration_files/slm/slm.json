@@ -1,4 +1,4 @@
-{{
+{
 	"board_num": 1,
 	"height": 0,
 	"width": 0,
@@ -9,4 +9,4 @@
 	"wavefrontImage": [],
 	"applyWavefrontCorrection": false,
 	"wavefrontImageFilename": "wavefront.bmp"
-}}
+}
